@@ -1,4 +1,4 @@
-//aise hi github ke leye ye bckd karra tha
+//aise hi github ke leye ye bckd karra tha wtf
 import java.util.*;
 public class array2 {
     public static void main (String args[])
